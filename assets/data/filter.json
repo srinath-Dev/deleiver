@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Acai",
+        "count": 7,
+        "checked": false
+    },
+    {
+        "name": "African",
+        "count": 9,
+        "checked": false
+    },
+    {
+        "name": "Alcohol",
+        "count": 330,
+        "checked": false
+    },
+    {
+        "name": "American",
+        "count": 201,
+        "checked": false
+    },
+    {
+        "name": "BBQ",
+        "count": 73,
+        "checked": false
+    },
+    {
+        "name": "Brunch",
+        "count": 118,
+        "checked": false
+    },
+    {
+        "name": "Cakes",
+        "count": 36,
+        "checked": false
+    },
+    {
+        "name": "Dessert",
+        "count": 282,
+        "checked": false
+    },
+    {
+        "name": "Falafel",
+        "count": 30,
+        "checked": false
+    }
+]
